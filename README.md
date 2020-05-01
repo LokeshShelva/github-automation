@@ -1,6 +1,6 @@
-This is code for automating the repositaay creation in git and github.
+This is code for automating the repositary creation in git and github.
 
-NOTE: You shpuld have git bash to run the command (git command work only if git bash is installedd).
+NOTE: You should have git bash to run the command (git command work only if git bash is installedd).
 
 First go into the .py file and put your github username (Email) and github password on line 24 and 29 respectively.  
 

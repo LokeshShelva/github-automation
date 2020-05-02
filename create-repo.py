@@ -12,8 +12,9 @@ for x in sys.argv:
     arg = x
 
 # WEB SCRAPING
+PATH = 'C:\Program Files (x86)\chromedriver'
 
-driver = webdriver.Chrome(executable_path='C:\Program Files (x86)\chromedriver')
+driver = webdriver.Chrome(executable_path= PATH)
 
 driver.get('http://www.github.com/login')
 

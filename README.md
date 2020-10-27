@@ -16,7 +16,7 @@ This is code for automating the repositary creation in git and github.
 3. Create a new folder named "github" in c:\User\user_name\documents
 4. Then go into the .py file and put your github username (Email) and github password on line 25 and 30 respectively.  
 5. Move the .bat file into C:\wiindows\system32 folder and run this command on command line (cmd or any terminal) to create the repositary
->create-repo your_repositary_name
+>create-repo <your_repositary_name>
 
 The code will open the browser and signin and create a repositary.
 It will also clone the repositary with the readme file to your local machine.
